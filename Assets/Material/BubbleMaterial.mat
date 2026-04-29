@@ -51,10 +51,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _NoiseScale: 7.86
+    - _NoiseScale: -2.44
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Speed: 0.2
+    - _SplitColor: 0.01
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
